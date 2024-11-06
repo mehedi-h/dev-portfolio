@@ -1,0 +1,19 @@
+
+/* shared color*/
+.text-primary {
+    color: #F79F1F;
+}
+
+.kanit-regular {
+    font-family: "Kanit", sans-serif;
+    font-style: normal;
+}
+
+/* navigation bar style */
+nav {
+    display: flex;
+}
+.nav-title {
+    font-weight: 700;
+    font-size: 40px;
+}
